@@ -1,15 +1,15 @@
 <h1 align="center">Hello, world! 👋</h1>
 
-``` 
+```bash 
 const ME = {
         fullName: 'Camila Fernandes',
         birthDate: '1999/12/17',
         pronouns: 'she' | 'her',
-        interests: ['science', 'tech', 'games', 'movies/TV series', 'music', 'books', 'pets'],
+        interests: ['web development', 'data science', 'AI', 'embedded systems', 'IoT'],
         motivation: 'Make life easier and smarter through tech'
     }
 ```
-##
+<h2 align="center">Tech skills</h2>
 <div align="center">
         <img alt="js" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
         <img alt="ts" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
